@@ -1,0 +1,50 @@
+[
+  {
+    "title": "The Gentle Giants: Understanding Whale Migration",
+    "excerpt": "Explore the incredible journeys of humpback whales and the ocean paths they return to year after year.",
+    "image": "https://images.unsplash.com/photo-1568430462989-44163eb1752f?ixlib=rb-4.0.3&auto=format&fit=crop&w=2072&q=80",
+    "category": "Marine Life",
+    "date": "Oct 12, 2024",
+    "author": "Dr. Sarah Chen"
+  },
+  {
+    "title": "Coral Bleaching: A Silent Emergency",
+    "excerpt": "Rising ocean temperatures are stressing coral systems worldwide and reshaping reefs faster than many species can adapt.",
+    "image": "https://images.unsplash.com/photo-1546026423-cc4642628d2b?ixlib=rb-4.0.3&auto=format&fit=crop&w=987&q=80",
+    "category": "Conservation",
+    "date": "Oct 08, 2024",
+    "author": "James Miller"
+  },
+  {
+    "title": "Bioluminescence: Nature's Light Show",
+    "excerpt": "Deep beneath the waves, glowing organisms create a living constellation in the dark.",
+    "image": "https://images.unsplash.com/photo-1551244072-5d12893278ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=2232&q=80",
+    "category": "Deep Sea",
+    "date": "Sep 28, 2024",
+    "author": "Elena Rossi"
+  },
+  {
+    "title": "Sea Turtles: Ancient Navigators",
+    "excerpt": "Learn how sea turtles cross oceans and return home using remarkable natural navigation.",
+    "image": "https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80",
+    "category": "Marine Life",
+    "date": "Sep 15, 2024",
+    "author": "Dr. Sarah Chen"
+  },
+  {
+    "title": "The Great Barrier Reef: A World Wonder",
+    "excerpt": "Discover one of the most extraordinary ecosystems on the planet and the delicate balance that keeps it alive.",
+    "image": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80",
+    "category": "Expeditions",
+    "date": "Sep 05, 2024",
+    "author": "James Miller"
+  },
+  {
+    "title": "Jellyfish: Drifting Through Time",
+    "excerpt": "Jellyfish have outlasted mass extinctions, drifting through Earth's history with quiet resilience.",
+    "image": "https://images.unsplash.com/photo-1546500840-ae38253aba9b?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80",
+    "category": "Deep Sea",
+    "date": "Aug 22, 2024",
+    "author": "Elena Rossi"
+  }
+]
